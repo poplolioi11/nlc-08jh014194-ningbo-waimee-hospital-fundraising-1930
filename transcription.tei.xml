@@ -1,0 +1,6469 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="zh-Hant">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>寧波華美醫院徵信錄</title>
+        <title type="translated">Ningbo Huamei Yiyuan Zhengxin Lu [Fundraising and Accounts Register of Ningbo Huamei Hospital]</title>
+        <author>華美醫院</author>
+        <respStmt>
+          <resp>數位轉錄整理</resp>
+          <name ref="https://orcid.org/0009-0003-9738-6914">曲宸宇</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>曲宸宇</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/">原刊公有領域。</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">新撰編輯說明與資料編碼採 CC BY 4.0。</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>寧波華美醫院徵信錄</title>
+          <publisher>華美醫院</publisher>
+          <pubPlace>浙江寧波</pubPlace>
+          <date when="1930">民國十九年三月（1930）</date>
+          <idno type="shelfmark">中國國家圖書館 08jh014194／37817</idno>
+          <ref target="https://commons.wikimedia.org/?curid=131010077" />
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" xml:id="page-1">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=1" />
+    </surface>
+    <surface n="2" xml:id="page-2">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=2" />
+    </surface>
+    <surface n="3" xml:id="page-3">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=3" />
+    </surface>
+    <surface n="4" xml:id="page-4">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=4" />
+    </surface>
+    <surface n="5" xml:id="page-5">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=5" />
+    </surface>
+    <surface n="6" xml:id="page-6">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=6" />
+    </surface>
+    <surface n="7" xml:id="page-7">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=7" />
+    </surface>
+    <surface n="8" xml:id="page-8">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=8" />
+    </surface>
+    <surface n="9" xml:id="page-9">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=9" />
+    </surface>
+    <surface n="10" xml:id="page-10">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=10" />
+    </surface>
+    <surface n="11" xml:id="page-11">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=11" />
+    </surface>
+    <surface n="12" xml:id="page-12">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=12" />
+    </surface>
+    <surface n="13" xml:id="page-13">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=13" />
+    </surface>
+    <surface n="14" xml:id="page-14">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=14" />
+    </surface>
+    <surface n="15" xml:id="page-15">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=15" />
+    </surface>
+    <surface n="16" xml:id="page-16">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=16" />
+    </surface>
+    <surface n="17" xml:id="page-17">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=17" />
+    </surface>
+    <surface n="18" xml:id="page-18">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=18" />
+    </surface>
+    <surface n="19" xml:id="page-19">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=19" />
+    </surface>
+    <surface n="20" xml:id="page-20">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=20" />
+    </surface>
+    <surface n="21" xml:id="page-21">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=21" />
+    </surface>
+    <surface n="22" xml:id="page-22">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=22" />
+    </surface>
+    <surface n="23" xml:id="page-23">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=23" />
+    </surface>
+    <surface n="24" xml:id="page-24">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=24" />
+    </surface>
+    <surface n="25" xml:id="page-25">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=25" />
+    </surface>
+    <surface n="26" xml:id="page-26">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=26" />
+    </surface>
+    <surface n="27" xml:id="page-27">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=27" />
+    </surface>
+    <surface n="28" xml:id="page-28">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=28" />
+    </surface>
+    <surface n="29" xml:id="page-29">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=29" />
+    </surface>
+    <surface n="30" xml:id="page-30">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=30" />
+    </surface>
+    <surface n="31" xml:id="page-31">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=31" />
+    </surface>
+    <surface n="32" xml:id="page-32">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=32" />
+    </surface>
+    <surface n="33" xml:id="page-33">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=33" />
+    </surface>
+    <surface n="34" xml:id="page-34">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=34" />
+    </surface>
+    <surface n="35" xml:id="page-35">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=35" />
+    </surface>
+    <surface n="36" xml:id="page-36">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=36" />
+    </surface>
+    <surface n="37" xml:id="page-37">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=37" />
+    </surface>
+    <surface n="38" xml:id="page-38">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=38" />
+    </surface>
+    <surface n="39" xml:id="page-39">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=39" />
+    </surface>
+    <surface n="40" xml:id="page-40">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=40" />
+    </surface>
+    <surface n="41" xml:id="page-41">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=41" />
+    </surface>
+    <surface n="42" xml:id="page-42">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=42" />
+    </surface>
+    <surface n="43" xml:id="page-43">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=43" />
+    </surface>
+    <surface n="44" xml:id="page-44">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=44" />
+    </surface>
+    <surface n="45" xml:id="page-45">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=45" />
+    </surface>
+    <surface n="46" xml:id="page-46">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=46" />
+    </surface>
+    <surface n="47" xml:id="page-47">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=47" />
+    </surface>
+    <surface n="48" xml:id="page-48">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=48" />
+    </surface>
+    <surface n="49" xml:id="page-49">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=49" />
+    </surface>
+    <surface n="50" xml:id="page-50">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=50" />
+    </surface>
+    <surface n="51" xml:id="page-51">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=51" />
+    </surface>
+    <surface n="52" xml:id="page-52">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=52" />
+    </surface>
+    <surface n="53" xml:id="page-53">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=53" />
+    </surface>
+    <surface n="54" xml:id="page-54">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=54" />
+    </surface>
+    <surface n="55" xml:id="page-55">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=55" />
+    </surface>
+    <surface n="56" xml:id="page-56">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=56" />
+    </surface>
+    <surface n="57" xml:id="page-57">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=57" />
+    </surface>
+    <surface n="58" xml:id="page-58">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=58" />
+    </surface>
+    <surface n="59" xml:id="page-59">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=59" />
+    </surface>
+    <surface n="60" xml:id="page-60">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=60" />
+    </surface>
+    <surface n="61" xml:id="page-61">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=61" />
+    </surface>
+    <surface n="62" xml:id="page-62">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=62" />
+    </surface>
+    <surface n="63" xml:id="page-63">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=63" />
+    </surface>
+    <surface n="64" xml:id="page-64">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=64" />
+    </surface>
+    <surface n="65" xml:id="page-65">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=65" />
+    </surface>
+    <surface n="66" xml:id="page-66">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=66" />
+    </surface>
+    <surface n="67" xml:id="page-67">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=67" />
+    </surface>
+    <surface n="68" xml:id="page-68">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=68" />
+    </surface>
+    <surface n="69" xml:id="page-69">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=69" />
+    </surface>
+    <surface n="70" xml:id="page-70">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=70" />
+    </surface>
+    <surface n="71" xml:id="page-71">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=71" />
+    </surface>
+    <surface n="72" xml:id="page-72">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=72" />
+    </surface>
+    <surface n="73" xml:id="page-73">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=73" />
+    </surface>
+    <surface n="74" xml:id="page-74">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=74" />
+    </surface>
+    <surface n="75" xml:id="page-75">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=75" />
+    </surface>
+    <surface n="76" xml:id="page-76">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=76" />
+    </surface>
+    <surface n="77" xml:id="page-77">
+      <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/33/NLC416-08jh014194-37817_%E5%AF%A7%E6%B3%A2%E8%8F%AF%E7%BE%8E%E9%86%AB%E9%99%A2%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=77" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="historical-transcription">
+        <pb n="1" facs="#page-1" />
+        <ab type="heading" n="p001-u001">民國十九年三月刊</ab>
+        <ab type="heading" n="p001-u002">寧波華美醫院徵信錄</ab>
+        <ab type="text" n="p001-u003">七五老人題</ab>
+        <pb n="2" facs="#page-2" />
+        <fw type="running" n="p002-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p002-folio">一</fw>
+        <ab type="heading" n="p002-u001">寧波華美醫院徵信錄目次</ab>
+        <ab type="text" n="p002-u002">一本院董事會啟事反面張讓三先生遺照</ab>
+        <ab type="text" n="p002-u003">二蘭公遺照</ab>
+        <ab type="text" n="p002-u004">三蘭公功績碑</ab>
+        <ab type="text" n="p002-u005">四本院全景</ab>
+        <ab type="text" n="p002-u006">五本院全體攝影</ab>
+        <ab type="text" n="p002-u007">六樓恂如君連骨科機床攝影</ab>
+        <ab type="text" n="p002-u008">七自動電話攝影</ab>
+        <ab type="text" n="p002-u009">八新醫院募建之經過</ab>
+        <ab type="text" n="p002-u010">九募集建築費諸公姓名銀數表</ab>
+        <ab type="text" n="p002-u011">十攝影　一</ab>
+        <ab type="note" n="p002-u012">目次</ab>
+        <pb n="3" facs="#page-3" />
+        <fw type="running" n="p003-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p003-folio">二</fw>
+        <ab type="text" n="p003-u001">十一攝影　二</ab>
+        <ab type="text" n="p003-u002">十二攝影　三</ab>
+        <ab type="text" n="p003-u003">十三攝影　四</ab>
+        <ab type="text" n="p003-u004">十四攝影　五</ab>
+        <ab type="text" n="p003-u005">十五攝影　六</ab>
+        <ab type="text" n="p003-u006">十六攝影　七</ab>
+        <ab type="text" n="p003-u007">十七攝影　八</ab>
+        <ab type="text" n="p003-u008">十八募集設備費諸公姓名銀數表</ab>
+        <ab type="text" n="p003-u009">十九攝影　九</ab>
+        <ab type="text" n="p003-u010">二十攝影　十</ab>
+        <ab type="text" n="p003-u011">二十一攝影　十一</ab>
+        <ab type="text" n="p003-u012">二十二本院收支總報冊</ab>
+        <ab type="note" n="p003-u013">目次</ab>
+        <pb n="4" facs="#page-4" />
+        <ab type="text" n="p004-u001">竊維院宇崇宏大有壯乎瞻觀佈置精潔無不合於科學</ab>
+        <ab type="text" n="p004-u002">本院自民國十五年興工起築庀材鳩工數載於斯今已</ab>
+        <ab type="text" n="p004-u003">告竣雖有賴</ab>
+        <ab type="text" n="p004-u004">上帝之靈亦仗同人之力無分界域不論信仰體念上天</ab>
+        <ab type="text" n="p004-u005">好生之德追憶蘭公服務之勳或慷慨解囊樂助多金或</ab>
+        <ab type="text" n="p004-u006">竭盡心計運籌擘畫得以完厥巨工一新氣象諸公之熱</ab>
+        <ab type="text" n="p004-u007">心公益踴躍樂輸感荷盛情深銘肺腑敬申謝悃并以告</ab>
+        <ab type="text" n="p004-u008">成云耳</ab>
+        <ab type="text" n="p004-u009">華美醫院董事會謹啓</ab>
+        <pb n="5" facs="#page-5" />
+        <ab type="caption" n="p005-u001">張讓三先生遺照</ab>
+        <ab type="text" n="p005-u002">先生吾甬名宿學博</ab>
+        <ab type="text" n="p005-u003">今古望孚中外尤熱</ab>
+        <ab type="text" n="p005-u004">心慈善公益贊助本</ab>
+        <ab type="text" n="p005-u005">院擘畫捐募更不遺</ab>
+        <ab type="text" n="p005-u006">餘力今本院新屋告</ab>
+        <ab type="text" n="p005-u007">成而先生已歸道山</ab>
+        <ab type="text" n="p005-u008">追念耆賢曷勝悵惋</ab>
+        <ab type="text" n="p005-u009">用志數語以永紀念</ab>
+        <ab type="text" n="p005-u010">共和紀元十九年春</ab>
+        <ab type="text" n="p005-u011">華美醫院謹誌</ab>
+        <pb n="6" facs="#page-6" />
+        <ab type="caption" n="p006-u001">蘭公遺照</ab>
+        <pb n="7" facs="#page-7" />
+        <ab type="heading" n="p007-u001">故院長蘭雅谷先生勞績紀念碑</ab>
+        <ab type="text" n="p007-u002">先生諱雅谷產於坎拿大畢業於美國密雪根大學醫科性慈祥治事有毅力</ab>
+        <ab type="text" n="p007-u003">主後一八八九年受美國基督教浸禮差會之命挈眷來華任寧波大美浸會醫院醫士職先生即本基督犧牲精</ab>
+        <ab type="text" n="p007-u004">神殫心服務日夜奔走於城鄉各地又以一手一足之烈不遑應接出其所學廣為陶冶今日由先生之手植而以</ab>
+        <ab type="text" n="p007-u005">醫業擅名於甬地者不下數十人誠亦先生之心血也又見其時醫院限於經費不克發展遂於一九○二至一九</ab>
+        <ab type="text" n="p007-u006">一五年兼任浙海關關醫俸金所入悉數捐助地方人士聞風興起輸將恐後院務大振由是易其名為華美醫院</ab>
+        <ab type="text" n="p007-u007">以示與華人合作也</ab>
+        <ab type="text" n="p007-u008">一九一九年至一九二四年疫癘盛行死亡枕藉貧病者每致坐斃先生憫之先後在城鄉籌設防疫醫院僕僕救</ab>
+        <ab type="text" n="p007-u009">治活人無算甬人皆額手稱慶焉</ab>
+        <ab type="text" n="p007-u010">一九二○年為先生六十誕辰屈指來華蓋三十週矣當地耆紳張讓三先生等醵金壽先生先生即移其金數千</ab>
+        <ab type="text" n="p007-u011">充醫院經常費而方濟年先生等為籌愛克司光鏡之費以為先生來華三十週之紀念</ab>
+        <ab type="text" n="p007-u012">一九二二年會稽道尹黃公涵之據實呈請前黎大總統頒給三等嘉禾章以彰丕績然先生不以本院苟美為足</ab>
+        <ab type="text" n="p007-u013">孳孳焉日以擴充院舍為其職志一九二三年先生遂有新建設之規畫宏模鉅構預計須數十萬金其時災歉奇</ab>
+        <ab type="text" n="p007-u014">重民不聊生捐募前途良多困難然先生能出以至誠持以毅力跋涉數萬里經營數寒暑鍥而不舍金石為開理</ab>
+        <ab type="text" n="p007-u015">想中新建設至今日而竟成事實豈歟盛矣惜本院輪奐重新之日正先生鞠躬盡瘁之時此則本院所引為遺</ab>
+        <ab type="text" n="p007-u016">憾者</ab>
+        <ab type="text" n="p007-u017">先生生於一八六一年卒於一九二七年享壽六十有六綜先生行誼誠無愧為忠實基督徒一生以基督為範模</ab>
+        <ab type="text" n="p007-u018">故能刻苦自勵博施濟衆新院告成前勳可念謹勒數語以告來茲</ab>
+        <ab type="text" n="p007-u019">中華民國十九</ab>
+        <ab type="text" n="p007-u020">主後一九三○</ab>
+        <ab type="text" n="p007-u021">年四月三日　華美醫院謹立</ab>
+        <pb n="8" facs="#page-8" />
+        <ab type="caption" n="p008-u001">本院正面攝影</ab>
+        <pb n="9" facs="#page-9" />
+        <ab type="caption" n="p009-u001">本院全體職員攝影</ab>
+        <pb n="10" facs="#page-10" />
+        <ab type="caption" n="p010-u001">樓恂如先生玉照</ab>
+        <ab type="inscription" n="p010-u002">本院近蒙</ab>
+        <ab type="inscription" n="p010-u003">樓恂如先生捐贈新式骨科機</ab>
+        <ab type="inscription" n="p010-u004">床一架計銀壹千弍百五拾元對于</ab>
+        <ab type="inscription" n="p010-u005">骨科手術方面極感便利而于病</ab>
+        <ab type="inscription" n="p010-u006">人方面實惠尤多具仰　先生慈</ab>
+        <ab type="inscription" n="p010-u007">善為懷病瘳在抱本院受賜之餘莫</ab>
+        <ab type="inscription" n="p010-u008">名感佩敬誌數言以揚盛德而留紀</ab>
+        <ab type="inscription" n="p010-u009">念上圖為　先生最近玉照下圖即</ab>
+        <ab type="inscription" n="p010-u010">為此項機床實地使用時之情形</ab>
+        <ab type="inscription" n="p010-u011">也中華民國十八年十一月華純任</ab>
+        <ab type="inscription" n="p010-u012">華科院誌</ab>
+        <ab type="caption" n="p010-u013">本院骨科機床攝影</ab>
+        <pb n="11" facs="#page-11" />
+        <ab type="text" n="p011-u001">此本院自動電話</ab>
+        <ab type="text" n="p011-u002">總機計有分機二</ab>
+        <ab type="text" n="p011-u003">十五號不必用人</ab>
+        <ab type="text" n="p011-u004">轉接可任意互向</ab>
+        <ab type="text" n="p011-u005">通話總計美金九</ab>
+        <ab type="text" n="p011-u006">百七十二元八角</ab>
+        <ab type="text" n="p011-u007">四分完全由</ab>
+        <ab type="text" n="p011-u008">徐慶雲先生募助</ab>
+        <pb n="12" facs="#page-12" />
+        <ab type="caption" n="p012-u001">安心頭陀（傅宜耘君）</ab>
+        <ab type="caption" n="p012-u002">張讓三先生</ab>
+        <ab type="caption" n="p012-u003">湯默思醫士</ab>
+        <ab type="caption" n="p012-u004">任莘耕醫士</ab>
+        <pb n="13" facs="#page-13" />
+        <ab type="caption" n="p013-u001">原有醫院臨江攝影</ab>
+        <pb n="14" facs="#page-14" />
+        <fw type="running" n="p014-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p014-folio">一</fw>
+        <ab type="heading" n="p014-u001">華美醫院新院募建之經過</ab>
+        <ab type="text" n="p014-u002">任莘耕</ab>
+        <ab type="text" n="p014-u003">本院募建新院之議倡始于民國十二年蘭公雅谷長本院之時民國十一年在美國募</ab>
+        <ab type="text" n="p014-u004">得二萬三千元蒙會稽道尹黃涵之先生為介向寧波效實學會購得北門內基地十三</ab>
+        <ab type="text" n="p014-u005">畝零而新院之基礎定建築新院之規劃始矣十二年七月蘭故院長發起募捐當募捐</ab>
+        <ab type="text" n="p014-u006">之始莘耕隨從其後奔走南北蒙甬地耆紳張讓三先生及旅滬寧波同鄉會廣為介紹</ab>
+        <ab type="text" n="p014-u007">於各地當道始由甬而滬而杭繼而由甬垣以達津京當時杭之盧子嘉張暄初甬之韓</ab>
+        <ab type="text" n="p014-u008">紫石津之黎前總統方藥雨李組才京之孫慕韓王儒堂李贊侯諸先生均極力襄助踴</ab>
+        <ab type="text" n="p014-u009">躍輸將不期年而認募之數近十萬與原定之額相去無幾嗣於十三年冬繼續勸募至</ab>
+        <ab type="text" n="p014-u010">十六年夏計先後捐得之款已達十三萬餘金的款有着乃始鳩工建築于十五年興工</ab>
+        <ab type="text" n="p014-u011">惜乎大功垂成之日正蘭公盡瘁之時竟于是年冬棄我輩而長逝莘耕等念先師之遺</ab>
+        <ab type="text" n="p014-u012">志益覺責任之重大含辛茹苦奮勇直前至十七年始全部竣工計所需達十萬有奇而</ab>
+        <ab type="text" n="p014-u013">捐得之款告罄矣十七年秋為購備內部一切之設施再作第二次之籌募終亦達原定</ab>
+        <ab type="text" n="p014-u014">一萬元之目標今新院得偉然矗立追溯前功不得不馨香拜謝于諸大善士急公好義</ab>
+        <ab type="text" n="p014-u015">之熱忱有以成之也茲當敝院編輯徵信錄爰將捐募之經過略綴如右倘亦關心敝院</ab>
+        <ab type="text" n="p014-u016">者所樂聞歟</ab>
+        <pb n="15" facs="#page-15" />
+        <fw type="running" n="p015-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p015-folio">二</fw>
+        <ab type="heading" n="p015-u001">新院建築費收入項下</ab>
+        <ab type="heading" n="p015-u002">計開</ab>
+        <table n="p015-t01">
+          <row>
+            <cell>吳蔭庭君</cell>
+            <cell>助洋五千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>效實學會</cell>
+            <cell>助洋五千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>無名氏翁</cell>
+            <cell>助洋五千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周宗良君</cell>
+            <cell>助洋四千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>萬國體育會</cell>
+            <cell>助洋三千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孫梅堂君</cell>
+            <cell>助洋二千五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>方藥雨君</cell>
+            <cell>助募洋二千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>無名氏葉</cell>
+            <cell>助洋二千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>盧子嘉君</cell>
+            <cell>助洋一千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李贊侯君</cell>
+            <cell>助洋一千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張延鍾君</cell>
+            <cell>助洋一千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>朱葆三君</cell>
+            <cell>助洋一千元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p015-t02">
+          <row>
+            <cell>李光啓君</cell>
+            <cell>助洋一千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>方叢桂軒</cell>
+            <cell>助洋一千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>袁履登君</cell>
+            <cell>助洋一千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>姜炳生君</cell>
+            <cell>助洋一千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>吳麟書君</cell>
+            <cell>助洋一千元</cell>
+            <cell>黃涵之君經募</cell>
+          </row>
+          <row>
+            <cell>趙晉卿君</cell>
+            <cell>助洋一千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>秦珍蓀君</cell>
+            <cell>助洋一千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王儒堂君</cell>
+            <cell>助洋一千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐慶雲君</cell>
+            <cell>助洋一千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>賀得霖君</cell>
+            <cell>助洋一千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>葉葆青君</cell>
+            <cell>助洋一千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>謝衞聰君</cell>
+            <cell>助洋一千元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="16" facs="#page-16" />
+        <fw type="running" n="p016-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p016-folio">三</fw>
+        <table n="p016-t01">
+          <row>
+            <cell>鄔挺午君</cell>
+            <cell>助洋一千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳子塤君</cell>
+            <cell>助洋一千元</cell>
+            <cell>尙有經募五百元列後</cell>
+          </row>
+          <row>
+            <cell>邊文錦君</cell>
+            <cell>助洋一千元</cell>
+            <cell>黃涵之君經募</cell>
+          </row>
+          <row>
+            <cell>張天錫君</cell>
+            <cell>助洋八百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>余葆三君</cell>
+            <cell>助洋七百元</cell>
+            <cell>尙有經募八百元列後</cell>
+          </row>
+          <row>
+            <cell>寧波西北公會</cell>
+            <cell>助洋七百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>甯紹公司</cell>
+            <cell>助洋六百五十元</cell>
+            <cell>助水腳減半數</cell>
+          </row>
+          <row>
+            <cell>曹蘭彬君</cell>
+            <cell>經募洋五百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>袁異初君</cell>
+            <cell>經募洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>倪椿如君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>嚴蕉銘君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>方壽房</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王佐禹君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p016-t02">
+          <row>
+            <cell>韓紫石君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>虞洽卿君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>方安圃君</cell>
+            <cell>助洋五百元</cell>
+            <cell>尙有三百元列後</cell>
+          </row>
+          <row>
+            <cell>王正康君</cell>
+            <cell>助洋五百元</cell>
+            <cell>經募一千元列後</cell>
+          </row>
+          <row>
+            <cell>張潤津君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張壽房</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張效良君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張組英君</cell>
+            <cell>助洋五百元</cell>
+            <cell>尙有六百五十元列後</cell>
+          </row>
+          <row>
+            <cell>陳楚湘君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>項松茂君　五洲藥房</cell>
+            <cell>合助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>董占春君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>傅其霖君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳瑞海君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="17" facs="#page-17" />
+        <fw type="running" n="p017-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p017-folio">四</fw>
+        <table n="p017-t01">
+          <row>
+            <cell>吳佩綸君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孫餘生廠</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>沈鴻昭君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>董杏生君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王習甫君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>錢沂之君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>方愛吾廬</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>裘輔臣君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孫瑞甫君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張朗齋君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>黃涵之君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉鴻生君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>仁壽堂嚴</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p017-t02">
+          <row>
+            <cell>方保廬　包湘瀾　二君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>醒廬方</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>戴畊莘君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>新順泰號</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>洪賢鈁君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>種德堂徐</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>嚴子均君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>金廷蓀君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>方半間廬</cell>
+            <cell>助洋五百元</cell>
+            <cell>尙有五百元列後</cell>
+          </row>
+          <row>
+            <cell>張繼光君</cell>
+            <cell>助洋五百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳蓉館君</cell>
+            <cell>經募洋四百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>天童寺</cell>
+            <cell>助洋三百八十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蘇壽田君</cell>
+            <cell>助洋三百五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="18" facs="#page-18" />
+        <fw type="running" n="p018-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p018-folio">五</fw>
+        <table n="p018-t01">
+          <row>
+            <cell>洪滄亭君</cell>
+            <cell>助洋三百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>無名氏周</cell>
+            <cell>助洋三百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>方安圃君</cell>
+            <cell>經募洋三百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孫蔚甫君</cell>
+            <cell>助洋三百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>謝仲筌君</cell>
+            <cell>助洋三百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>方哲民君</cell>
+            <cell>助洋三百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳子塤君</cell>
+            <cell>助洋三百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張瑞椿君</cell>
+            <cell>助洋三百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>童夢雲君</cell>
+            <cell>助洋二百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>邵俞康君</cell>
+            <cell>助洋二百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周肇詠君</cell>
+            <cell>助洋二百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>華成公司</cell>
+            <cell>助洋二百五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p018-t02">
+          <row>
+            <cell>林斐成君</cell>
+            <cell>助洋二百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄔彬生君</cell>
+            <cell>助洋二百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>虞秉榮君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄔志豪君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李祖蔭君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李拙君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳廷奎君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>俞益記</cell>
+            <cell>助洋二百元</cell>
+            <cell>陳子塤君經募</cell>
+          </row>
+          <row>
+            <cell>順泰木行</cell>
+            <cell>助洋二百元</cell>
+            <cell>曹蘭彬君經募</cell>
+          </row>
+          <row>
+            <cell>孫傳芳君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蔡丕乾君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>祁仍奚君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="19" facs="#page-19" />
+        <fw type="running" n="p019-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p019-folio">六</fw>
+        <table n="p019-t01">
+          <row>
+            <cell>翁葆甫君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>葉仲恕君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李達卿君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳良初君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>文德堂沈</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>黎元洪君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>盛省傳君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周乾房</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>裘霞如君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>何紹庭君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>馮玉祥君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>盧華庭君</cell>
+            <cell>經募洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐博泉君</cell>
+            <cell>助洋二百元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p019-t02">
+          <row>
+            <cell>方新吾君</cell>
+            <cell>助洋一百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>胡象美君</cell>
+            <cell>助洋一百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>嚴子裕君</cell>
+            <cell>助洋一百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陸筱舫君</cell>
+            <cell>助洋一百念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>方樵岑君</cell>
+            <cell>經募洋一百念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>邵生榮君</cell>
+            <cell>助洋一百○五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>毛和源君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>嚴孟繁君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周炳文君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>上海商務書館</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>盧老太太</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>吳雨亭君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐永炎君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="20" facs="#page-20" />
+        <fw type="running" n="p020-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p020-folio">七</fw>
+        <table n="p020-t01">
+          <row>
+            <cell>董　君</cell>
+            <cell>助洋一百念元</cell>
+            <cell>蛋業</cell>
+          </row>
+          <row>
+            <cell>嚴蓉卿君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>舒文耀君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>樓其樑君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>高子塤君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>勵忻寶君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳均侯君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>洪雁賓君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>余安官君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>岑廷康君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>林渭舟君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>俞福謙君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王海帆君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p020-t02">
+          <row>
+            <cell>毛魯卿君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳准鑑君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鮑咸昌君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>夏鮑太太</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄔友銘君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>丁忠茂君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>臥月居李</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張逸雲君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>石運乾君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王烈高君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳松源君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王大赦君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳慶瑞君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="21" facs="#page-21" />
+        <fw type="running" n="p021-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p021-folio">八</fw>
+        <table n="p021-t01">
+          <row>
+            <cell>朱旭昌君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>錢筱寶君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>上海中英藥房</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>方式如君</cell>
+            <cell>助洋一百元</cell>
+            <cell>指定修井</cell>
+          </row>
+          <row>
+            <cell>林承歡君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張安芳君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>盛松琴君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蔡仁立房</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳天壽君</cell>
+            <cell>助洋八十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>上海科發藥房</cell>
+            <cell>助洋七十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王才運君</cell>
+            <cell>助洋五十元</cell>
+            <cell>余華範君經募</cell>
+          </row>
+          <row>
+            <cell>陳祥麟君</cell>
+            <cell>經募洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄭霖祥君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p021-t02">
+          <row>
+            <cell>胡文甫君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉寶裕君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>尹賀治君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張梅嶺女士</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王幼三師母</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孫祥型君</cell>
+            <cell>經募洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳壽衡君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐渭源君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>袁梅記</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>何德文君</cell>
+            <cell>助洋六十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>趙春華君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉予醒君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>董梅生君</cell>
+            <cell>助洋五十元</cell>
+            <cell>馬友芳君經募</cell>
+          </row>
+        </table>
+        <pb n="22" facs="#page-22" />
+        <fw type="running" n="p022-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p022-folio">九</fw>
+        <table n="p022-t01">
+          <row>
+            <cell>楊河清君</cell>
+            <cell>經募洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>祁張梅峯女士</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳斌奎君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>卓寶亭君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>上海集成藥房</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳次平君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>邱寶賁君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周開文君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>何元增君</cell>
+            <cell>助洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>楊渭泉君</cell>
+            <cell>助洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>董瑞震君</cell>
+            <cell>助洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>章裕卿君</cell>
+            <cell>助洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>上海華英藥房</cell>
+            <cell>助洋念元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p022-t02">
+          <row>
+            <cell>顧元琛君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>杜厚義君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張保慶君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>洪益珊君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>樓復來君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王少雲君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐和梅君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐虎臣君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>樂滋生君</cell>
+            <cell>助洋四十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>善　記</cell>
+            <cell>助洋四十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>金吉夫君</cell>
+            <cell>助洋三十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張九齡君</cell>
+            <cell>助洋三十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>洪元祉君</cell>
+            <cell>助洋三十元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="23" facs="#page-23" />
+        <fw type="running" n="p023-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p023-folio">一〇</fw>
+        <table n="p023-t01">
+          <row>
+            <cell>阮渭涇君</cell>
+            <cell>助洋十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>源泰號</cell>
+            <cell>助洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>屠介澄君</cell>
+            <cell>助洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>屠韻記</cell>
+            <cell>助洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>俞嘉福君</cell>
+            <cell>助洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王世恩君</cell>
+            <cell>助洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p023-t02">
+          <row>
+            <cell>張嘉惠君</cell>
+            <cell>助洋念五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>余顯恩君</cell>
+            <cell>助洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李漢一君</cell>
+            <cell>助洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>戎云士君</cell>
+            <cell>助洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐味青君</cell>
+            <cell>助洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>楊炳仁君</cell>
+            <cell>助洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p023-u001">孫寶琦君經募洋一千四百五十元</ab>
+        <table n="p023-t03">
+          <row>
+            <cell>國務院</cell>
+            <cell>洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>稅務處</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>交通部</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>外交部</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孫寶琦君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陸　錦君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p023-t04">
+          <row>
+            <cell>財政部</cell>
+            <cell>洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>海軍部</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>司法部</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>教育部</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>財政總理會</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>程　克君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="24" facs="#page-24" />
+        <fw type="running" n="p024-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p024-folio">一一</fw>
+        <table n="p024-t01">
+          <row>
+            <cell>蔡經治堂</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p024-u001">王正康君經募洋一千元</ab>
+        <table n="p024-t02">
+          <row>
+            <cell>瑞昌順號</cell>
+            <cell>洋四百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王立房</cell>
+            <cell>洋二百元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p024-t03">
+          <row>
+            <cell>瑞新順號</cell>
+            <cell>洋四百元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p024-u002">方液仙君經募洋一千元</ab>
+        <table n="p024-t04">
+          <row>
+            <cell>恒祥莊</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>安康莊</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>安裕莊</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>方孟房</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>方惠和</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王仲書君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>盛善憲君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p024-t05">
+          <row>
+            <cell>承裕莊</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>虞裕莊</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>盛筱珊君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>謝翰甫君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>槐蔭書屋</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>方萃和</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>楊太太</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>吳熊祥君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="25" facs="#page-25" />
+        <fw type="running" n="p025-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p025-folio">一二</fw>
+        <ab type="heading" n="p025-u001">余葆三君經募八百元</ab>
+        <table n="p025-t01">
+          <row>
+            <cell>陳舜卿君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>顧吉生君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>敦裕號</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>勤餘總會</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>裕興祥號</cell>
+            <cell>洋三十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>甡昌號</cell>
+            <cell>洋念五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>仁和永</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>成吉祥</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>永來盛</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>瑞蚨祥</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李子良君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>益順盛號</cell>
+            <cell>洋念五元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p025-t02">
+          <row>
+            <cell>陳筌舫君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李志榮君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>大豐號</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>雙盛泰號</cell>
+            <cell>洋三十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>共濟堂</cell>
+            <cell>洋念五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>瑞記號</cell>
+            <cell>洋念五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>政合永</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>永豐利</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>協順昌</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>聚生東</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王馨舫君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="26" facs="#page-26" />
+        <fw type="running" n="p026-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p026-folio">一三</fw>
+        <ab type="heading" n="p026-u001">王桂林君經募洋八百元</ab>
+        <table n="p026-t01">
+          <row>
+            <cell>陸　也君</cell>
+            <cell>洋四百九十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陸秉璋君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>沈建源君</cell>
+            <cell>洋二十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>洪福奎君</cell>
+            <cell>洋二十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳厚生君</cell>
+            <cell>洋十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳錫根君</cell>
+            <cell>洋十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>汪萬善君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>唐阿康君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>楊仁增君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p026-t02">
+          <row>
+            <cell>陸信章君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>童祥高君</cell>
+            <cell>洋二十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>吳九源君</cell>
+            <cell>洋二十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張根榮君</cell>
+            <cell>洋十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>沈根財君</cell>
+            <cell>洋十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王金官君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王金生君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>唐正生君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>洪元芳君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p026-u002">錢中卿君經募洋六百十元</ab>
+        <table n="p026-t03">
+          <row>
+            <cell>錢中卿君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>翁晉瑞君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p026-t04">
+          <row>
+            <cell>元昌號</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐炳輝君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="27" facs="#page-27" />
+        <fw type="running" n="p027-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p027-folio">一四</fw>
+        <table n="p027-t01">
+          <row>
+            <cell>韓芸根君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>董元芳君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>金君堂君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>瑞昌泰號</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蔡成生</cell>
+            <cell>洋丁元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>永順祥</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>戴萬茂號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p027-t02">
+          <row>
+            <cell>李九梅君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>明華銀行</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>俞佐庭君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蔡茂生</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>同新和</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>信大生記</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p027-u001">樂振葆君經募洋五百元</ab>
+        <table n="p027-t03">
+          <row>
+            <cell>泰昌木器公司</cell>
+            <cell>洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>樂振葆君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p027-t04">
+          <row>
+            <cell>趙吉記</cell>
+            <cell>洋二百元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p027-u002">樂甬生君經募洋五百元</ab>
+        <table n="p027-t05">
+          <row>
+            <cell>樂甬生君</cell>
+            <cell>洋二百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>顧錫銘君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p027-t06">
+          <row>
+            <cell>梁文臣君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>賀師鑑君</cell>
+            <cell>洋三十元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="28" facs="#page-28" />
+        <fw type="running" n="p028-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p028-folio">一五</fw>
+        <table n="p028-t01">
+          <row>
+            <cell>郭緯房</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>傅楚生君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>林國瑞君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>梁樵青君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p028-t02">
+          <row>
+            <cell>俞福藩君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>屠駿興君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>梁葆青君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p028-u001">何葆齡君經募洋五百元</ab>
+        <table n="p028-t03">
+          <row>
+            <cell>何葆齡君</cell>
+            <cell>洋一百八十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>信裕莊</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王榮卿君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p028-t04">
+          <row>
+            <cell>元昌成號</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>同泰莊</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p028-u002">方稼蓀君經募洋五百元</ab>
+        <table n="p028-t05">
+          <row>
+            <cell>方稼蓀君</cell>
+            <cell>洋三百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>元盛永</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p028-t06">
+          <row>
+            <cell>盛嵩觀君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p028-u003">孔頌馨君經募洋五百元</ab>
+        <table n="p028-t07">
+          <row>
+            <cell>孔頌馨君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p028-t08">
+          <row>
+            <cell>金城銀行</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="29" facs="#page-29" />
+        <fw type="running" n="p029-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p029-folio">一六</fw>
+        <table n="p029-t01">
+          <row>
+            <cell>中南銀行</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋四十三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>春華茂號</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孫鐵卿君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>益新公司</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>湯再如君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>修德堂葉</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>承康號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳璽月君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>敦義號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>尹韻筌君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>富謂元君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>裘良圭君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p029-t02">
+          <row>
+            <cell>豐大號</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>施耀卿君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張文煥君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>潤亨公司</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>俞子毅君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>大成號</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王正茹君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>任仲琅君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>吳繼香君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>宏源號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>聚源號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>莫杏林君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>久裕公司</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="30" facs="#page-30" />
+        <fw type="running" n="p030-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p030-folio">一七</fw>
+        <table n="p030-t01">
+          <row>
+            <cell>敦昌號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>信富號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>義成銀號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>大利銀號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>志遠銀號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>新樵銀號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>餘大昌銀號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>胡組安君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p030-t02">
+          <row>
+            <cell>東方公司</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>桐盛號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>天津興業銀行</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>大通銀號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>義豐銀號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>山東工商銀行</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>華北銀號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p030-u001">鄔謨昌經募洋四百元</ab>
+        <table n="p030-t03">
+          <row>
+            <cell>孫廷輝君</cell>
+            <cell>洋一百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陶桂林君</cell>
+            <cell>洋三十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>忻士卿君</cell>
+            <cell>洋二十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王泉蓀君</cell>
+            <cell>洋二十元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p030-t04">
+          <row>
+            <cell>鄭安坤君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄔天房</cell>
+            <cell>洋三十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐會成君</cell>
+            <cell>洋二十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張蕓齋君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="31" facs="#page-31" />
+        <fw type="running" n="p031-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p031-folio">一八</fw>
+        <table n="p031-t01">
+          <row>
+            <cell>吳文華君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>買芝祥君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳信根君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>柴德欽君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p031-t02">
+          <row>
+            <cell>張宗堯君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>安信記</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳向誠君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>日新祥</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p031-u001">朱吟江君經募洋三百元</ab>
+        <table n="p031-t03">
+          <row>
+            <cell>袁宗耀君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>朱吟江君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p031-t04">
+          <row>
+            <cell>久記木行</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p031-u002">曹雲祥君經募洋二百五十二元</ab>
+        <table n="p031-t05">
+          <row>
+            <cell>曹雲祥君</cell>
+            <cell>洋六十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王國維君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張愷臣君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蔡競卜君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蔣復瓏君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p031-t06">
+          <row>
+            <cell>周永德君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>虞振鏞君</cell>
+            <cell>洋十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李子雲君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>衛士生君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>朱　洪君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="32" facs="#page-32" />
+        <fw type="running" n="p032-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p032-folio">一九</fw>
+        <table n="p032-t01">
+          <row>
+            <cell>李廣誠君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>朱大年君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳　達君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>宋自清君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>胡魯聲君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>樊季清君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>樊欣臣君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>吳惟焯君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>趙宗堯君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p032-t02">
+          <row>
+            <cell>宋春舫君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>朱君毅君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孫仲寬君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉廷藩君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>邱德培君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>楊希霖君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>錢崇成君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>趙萬里君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p032-u001">章林生君經募洋二百五十元</ab>
+        <table n="p032-t03">
+          <row>
+            <cell>上海大陸藥房</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>章林生君</cell>
+            <cell>洋三十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>葛星南君</cell>
+            <cell>洋念五元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p032-t04">
+          <row>
+            <cell>如生筒廠</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>俞竹廷君</cell>
+            <cell>洋念五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳時新君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="33" facs="#page-33" />
+        <fw type="running" n="p033-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p033-folio">二〇</fw>
+        <table n="p033-t01">
+          <row>
+            <cell>葉芹生君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p033-t02">
+          <row>
+            <cell>鄭懋仁君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p033-u001">鄭植生君經募洋二百五十元</ab>
+        <table n="p033-t03">
+          <row>
+            <cell>黃浩川君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>寧紹轉運公司</cell>
+            <cell>洋念五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>經伯萱君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>越利轉運公司</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>趙呂氏</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>朱舜蓀君</cell>
+            <cell>洋六元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>楊汀卿君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>余鼎三君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>葉友松君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>魏立本堂</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王民暐君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p033-t04">
+          <row>
+            <cell>鄭植生君</cell>
+            <cell>洋二十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王浙聲君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄭賽英女士</cell>
+            <cell>洋十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>田時霖君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>繼志堂盛</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蔣夢花書屋</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄭筱寶君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>升大錢莊</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>餘姚電燈公司</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>郭啓民君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>普文明</cell>
+            <cell>二元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="34" facs="#page-34" />
+        <fw type="running" n="p034-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p034-folio">二一</fw>
+        <ab type="heading" n="p034-u001">濮卓雲君經募洋二百元</ab>
+        <table n="p034-t01">
+          <row>
+            <cell>上海華商電氣公司</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>趙明甫君</cell>
+            <cell>洋三十元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p034-t02">
+          <row>
+            <cell>濮卓雲君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄭保三君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p034-u002">林蔚文君經募洋二百元</ab>
+        <table n="p034-t03">
+          <row>
+            <cell>岱山五屬公廠</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>五屬公廠</cell>
+            <cell>洋十二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鈕梓清君</cell>
+            <cell>洋六元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>葉秉範君</cell>
+            <cell>洋六元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>高育軒君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>岱山運駁公所</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>公益廠各蓬</cell>
+            <cell>洋四元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>公興鹽廠</cell>
+            <cell>洋四元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>浙東廠各蓬</cell>
+            <cell>洋四元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p034-t04">
+          <row>
+            <cell>林蔚文君</cell>
+            <cell>洋十九元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>餘濟廠</cell>
+            <cell>洋六元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄭廷榆君</cell>
+            <cell>洋六元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張希周君</cell>
+            <cell>洋六元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>岱山公茂鹽廠</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>北甫魚鹽公所</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張源太廠</cell>
+            <cell>洋四元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>寧屬公廠</cell>
+            <cell>洋四元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>餘濟廠</cell>
+            <cell>洋四元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="35" facs="#page-35" />
+        <fw type="running" n="p035-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p035-folio">二二</fw>
+        <table n="p035-t01">
+          <row>
+            <cell>王順廠</cell>
+            <cell>洋四元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>公盛廠</cell>
+            <cell>洋四元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>黃浩南君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>藍田興君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>楊竹篔君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周家楨君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>趙劍南君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>夏耀宣君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王頌昇君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>戴健民君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>林虞臣君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>余志善君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄭維藩君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p035-t02">
+          <row>
+            <cell>浙東公廠</cell>
+            <cell>洋四元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>薛少蔓君</cell>
+            <cell>洋四元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳仲實君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>董果庭君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉章甫君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>姚養安君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>隱居氏</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>姚養才君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張彥士君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>章少儀君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>錢　江君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>沈藹如君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>俞吉人君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="36" facs="#page-36" />
+        <fw type="running" n="p036-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p036-folio">二三</fw>
+        <table n="p036-t01">
+          <row>
+            <cell>魚豐公所</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄭君</cell>
+            <cell>洋一元</cell>
+            <cell>崇德盛鈺</cell>
+          </row>
+          <row>
+            <cell>錢庭元君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>錢國珍君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p036-t02">
+          <row>
+            <cell>李衷林君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王錫君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張君</cell>
+            <cell>洋一元</cell>
+            <cell>啓達學會</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p036-u001">吳熊渭君經募洋一百五十五元</ab>
+        <table n="p036-t03">
+          <row>
+            <cell>北平晉和祥</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>黃以紘君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐昆山君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄭麗山君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>吳太太</cell>
+            <cell>洋四元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李仁霖君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳金樵君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>盧溢堆君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p036-t04">
+          <row>
+            <cell>吳熊渭君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>北京永泰和烟草公司</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>葉祝堂君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄭捷光君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張福康太太</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>羅伯穎君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄒棟朋君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>郭景雲君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="37" facs="#page-37" />
+        <fw type="running" n="p037-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p037-folio">二四</fw>
+        <table n="p037-t01">
+          <row>
+            <cell>鄭梅孫君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p037-u001">姜證禪君經募洋一百五十元</ab>
+        <table n="p037-t02">
+          <row>
+            <cell>錢雨嵐君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p037-t03">
+          <row>
+            <cell>張雲江君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p037-u002">馬友芳君經募洋六十元</ab>
+        <table n="p037-t04">
+          <row>
+            <cell>陳禹文君</cell>
+            <cell>洋十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>趙良佐君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>應章炳君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>史良甫君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p037-t05">
+          <row>
+            <cell>馬友芳君</cell>
+            <cell>洋十二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>馬申昌號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉壽生君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>楊文傳君</cell>
+            <cell>洋四元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p037-u003">周汝南君經募洋一百零四元</ab>
+        <table n="p037-t06">
+          <row>
+            <cell>董景安君</cell>
+            <cell>洋念四元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>沈載琛君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>許厚之君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳峻貴君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p037-t07">
+          <row>
+            <cell>王勇房</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>齊其樞君</cell>
+            <cell>洋六元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>丁七房</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>新學會社</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="38" facs="#page-38" />
+        <fw type="running" n="p038-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p038-folio">二五</fw>
+        <table n="p038-t01">
+          <row>
+            <cell>俞明德君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>胡凰房</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>沈春茂君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>顧濟森君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李友蘭君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>黃才福君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>吳師母</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>黃鳳英君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>方理琴君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鮑哲庵君</cell>
+            <cell>洋半元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p038-t02">
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>董景安師母</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>沈富高君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>阜泰號</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>謝發章君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周香林君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>尹竹君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>曹孝英君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>謝本仁君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐祖鑑君</cell>
+            <cell>洋半元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p038-u001">王國海經募洋一百元</ab>
+        <table n="p038-t03">
+          <row>
+            <cell>干永淨女士</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p038-t04">
+          <row>
+            <cell>王恕房</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p038-u002">李慶齡經募洋一百元</ab>
+        <pb n="39" facs="#page-39" />
+        <fw type="running" n="p039-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p039-folio">二六</fw>
+        <table n="p039-t01">
+          <row>
+            <cell>洋貨公所同業</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p039-u001">陳子翔君經募洋七十元</ab>
+        <table n="p039-t02">
+          <row>
+            <cell>聚興成號</cell>
+            <cell>洋十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>許良灝君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>沙詠論君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>朱承恩君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>涵　廬</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p039-t03">
+          <row>
+            <cell>嚴逸文君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周耀南君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>天津中央藥房</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p039-u002">鄔光道君經募洋六十一元</ab>
+        <table n="p039-t04">
+          <row>
+            <cell>馬昌良君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>全良甫君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李孝勳君</cell>
+            <cell>洋四元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>曹文林君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄔光道君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p039-t05">
+          <row>
+            <cell>徐太太</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳才棠君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>邵翰隱氏</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蕭元恩君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>方亞光君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="40" facs="#page-40" />
+        <fw type="running" n="p040-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p040-folio">二七</fw>
+        <table n="p040-t01">
+          <row>
+            <cell>陳悅道君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張宏祉君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>大陳師母</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>樂俊銓君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陸鳳崗君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>高仲卿君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄔時俊君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p040-t02">
+          <row>
+            <cell>譚師母</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>施秉璋君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐　氏</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李長生君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>朱淇園君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄔靜嫻女士</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p040-u001">葉守卿君經募洋六十元</ab>
+        <table n="p040-t03">
+          <row>
+            <cell>童夢槐君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>葉守卿君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>章志道君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉子長君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周玉書君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p040-t04">
+          <row>
+            <cell>史如鈞君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>姚寶榮君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳觀塘君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>袁稽清君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="41" facs="#page-41" />
+        <fw type="running" n="p041-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p041-folio">二八</fw>
+        <table n="p041-t01">
+          <row>
+            <cell>朱松卿君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>葉仲垣君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>黎玉如君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>董安甫君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孫紹棠君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>福源長</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>正大誠</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>聚義長</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孔惠卿君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>羅兆春君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>川產公司</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張宏文君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>葉廷綸君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p041-t02">
+          <row>
+            <cell>邵全甫君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄭蓉棠君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>阮益蓀君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>翁志剛君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>龐邦彥君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>彭德生君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>益興長君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>夏其振君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張寅康君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>董錦生君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>同和榮</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>天福同</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>胡啓斌君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="42" facs="#page-42" />
+        <fw type="running" n="p042-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p042-folio">二九</fw>
+        <table n="p042-t01">
+          <row>
+            <cell>楊松卿君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>童炳甫君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p042-t02">
+          <row>
+            <cell>立豐報行</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鳥嘯臥君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p042-u001">屠開泰經募洋四十二元</ab>
+        <table n="p042-t03">
+          <row>
+            <cell>屠開泰君</cell>
+            <cell>洋念五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>黃紹封君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李仰輝君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p042-t04">
+          <row>
+            <cell>柴友生君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張宗良君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p042-u002">北京協和醫院施女士經募洋三十元</ab>
+        <table n="p042-t05">
+          <row>
+            <cell>石女士</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉吳卓生女士</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>楊錫璋君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>馬麗娟女士</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>常麗貞女士</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>龍乘雲君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p042-t06">
+          <row>
+            <cell>施太太</cell>
+            <cell>洋三元三角</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐太太</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>任彩月女士</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉志芳君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>許慎徵君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>任女士</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="43" facs="#page-43" />
+        <fw type="running" n="p043-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p043-folio">三○</fw>
+        <table n="p043-t01">
+          <row>
+            <cell>黃女士</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>余太太</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉太太</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李鉦鳳　趙華珍　合助</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張俞李女士</cell>
+            <cell>洋七角</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p043-t02">
+          <row>
+            <cell>李女士</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄔孝伯君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王女士</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>吳太太</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p043-u001">以上至十八年十二月底止計共洋十萬零九千八百念九元一角五分</ab>
+        <ab type="heading" n="p043-u002">注意</ab>
+        <ab type="text" n="p043-u003">上列各捐款除大多數為個人捐助外間有認募諸君因為時過久或有捐冊遺</ab>
+        <ab type="text" n="p043-u004">失未曾繳還本院者致詳細捐戶芳名無從探索不能一一列入茲除將捐冊繳</ab>
+        <ab type="text" n="p043-u005">還本院之認募諸君將詳細捐戶芳名開列外所有捐冊遺失未曾繳還諸君祇</ab>
+        <ab type="text" n="p043-u006">寫認募者之姓名不列其他捐戶芳名惟於姓名下不寫助而寫經募二字以誌</ab>
+        <ab type="text" n="p043-u007">識別特此附告</ab>
+        <pb n="44" facs="#page-44" />
+        <ab type="caption" n="p044-u001">殺菌室</ab>
+        <ab type="caption" n="p044-u002">電動機</ab>
+        <pb n="45" facs="#page-45" />
+        <ab type="caption" n="p045-u001">女護士攝影之一</ab>
+        <ab type="caption" n="p045-u002">護士教授室</ab>
+        <pb n="46" facs="#page-46" />
+        <ab type="caption" n="p046-u001">愛克司光鏡之一</ab>
+        <ab type="caption" n="p046-u002">愛克司光鏡之二</ab>
+        <pb n="47" facs="#page-47" />
+        <ab type="caption" n="p047-u001">手術室一</ab>
+        <ab type="caption" n="p047-u002">手術室二</ab>
+        <pb n="48" facs="#page-48" />
+        <ab type="caption" n="p048-u001">包房間一</ab>
+        <ab type="caption" n="p048-u002">包房間二</ab>
+        <pb n="49" facs="#page-49" />
+        <ab type="caption" n="p049-u001">屋頂平臺之一</ab>
+        <ab type="caption" n="p049-u002">大門反面攝影</ab>
+        <pb n="50" facs="#page-50" />
+        <fw type="running" n="p050-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p050-folio">三一</fw>
+        <ab type="heading" n="p050-u001">寧波華美醫院籌募設備經費辦法</ab>
+        <ab type="text" n="p050-u002">（一）目的　籌募總額計國幣壹萬元專為本院充作設備經費之用</ab>
+        <ab type="text" n="p050-u003">（二）組織　籌募方法分作四十組每組擔任二百五十元</ab>
+        <ab type="text" n="p050-u004">（三）期限　籌募期限自國民十七年六月一日起至六月三十日止</ab>
+        <ab type="text" n="p050-u005">（四）酬贈　募捐酬贈條例詳載捐冊內</ab>
+        <ab type="text" n="p050-u006">（五）徵信　各組繳款均由本院院務主任任莘耕簽發收據為憑應請特別注意</ab>
+        <ab type="text" n="p050-u007">中華民國十七年六月　寧波華美醫院謹訂</ab>
+        <ab type="heading" n="p050-u008">新院設備費收入項下</ab>
+        <ab type="text" n="p050-u009">計開</ab>
+        <ab type="heading" n="p050-u010">樓恂如君經募洋一千二百五十元</ab>
+        <table n="p050-t01">
+          <row>
+            <cell>敦厚堂</cell>
+            <cell>洋八百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>樓恂如君</cell>
+            <cell>洋四百五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="51" facs="#page-51" />
+        <fw type="running" n="p051-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p051-folio">三二</fw>
+        <ab type="heading" n="p051-u001">李祠廣君經募洋四百元</ab>
+        <table n="p051-t01">
+          <row>
+            <cell>李廣記</cell>
+            <cell>洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>朱志記</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>久記</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p051-u002">陳春福君經募計洋二百五十二元</ab>
+        <table n="p051-t02">
+          <row>
+            <cell>蔣仰虞君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>汪森泰君</cell>
+            <cell>洋十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王桐軒君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>應永峯君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>呂痴痴君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>協興腸廠</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>協記廠</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳孟偉君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p051-t03">
+          <row>
+            <cell>徐秀記</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄒敏初君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>高業駿君</cell>
+            <cell>洋十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>柴云來君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周日昌君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>新泰來</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>源順號</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>得生號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王生春君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="52" facs="#page-52" />
+        <fw type="running" n="p052-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p052-folio">三三</fw>
+        <table n="p052-t01">
+          <row>
+            <cell>張劍鴻君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>任耕龍君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐大鈞君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>任品生君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>羅乘柔君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐坤一君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>何世植君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鍾廉甫君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>藍琢如君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>饒道升君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p052-u001">朱鴻源君經募洋二百五十元</ab>
+        <table n="p052-t02">
+          <row>
+            <cell>裕豐亨申行</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>維益公</cell>
+            <cell>洋三十元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p052-t03">
+          <row>
+            <cell>王文奎君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>黃林慶君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>任昌甫君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>楊擎嘉君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王洪祥君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李偉人君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王文驊君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周順寶君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李天助君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>林潤蘇君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>朱鴻源君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>林桐卿君</cell>
+            <cell>洋三十元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="53" facs="#page-53" />
+        <fw type="running" n="p053-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p053-folio">三四</fw>
+        <table n="p053-t01">
+          <row>
+            <cell>裕豐亨甬號</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王吉榮君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張鶴年君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>天福同號</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p053-u001">鄭仁業君經募洋二百五十元</ab>
+        <table n="p053-t02">
+          <row>
+            <cell>鄭仁業君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>葉滋生君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李文瑞君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>胡冰玉君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p053-u002">蔡酉生君經募洋二百五十元</ab>
+        <table n="p053-t03">
+          <row>
+            <cell>四明電話公司</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉嘉業堂</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p053-u003">翁繼初君經募洋二百五十元</ab>
+        <table n="p053-t04">
+          <row>
+            <cell>周和甫君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳祥樓君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>漢口承裕行</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>新北京輪船</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>裕和公</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>杜德生君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>厲樹雄君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蔡酉生君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="54" facs="#page-54" />
+        <fw type="running" n="p054-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p054-folio">三五</fw>
+        <table n="p054-t01">
+          <row>
+            <cell>棉業中人</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>同泰花莊</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>寶大花莊</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>五昌花莊</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>長源花莊</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>源豐花莊</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>通和花莊</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>和豐寧莊</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>康記花莊</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p054-u001">周松壽君經募洋二百五十元</ab>
+        <table n="p054-t02">
+          <row>
+            <cell>蛋業公所</cell>
+            <cell>洋三十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>承餘公司</cell>
+            <cell>洋三十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄭星炎君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p054-t03">
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋四十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>豐泰花莊</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>恆大花莊</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>宏大號</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>順祥花莊</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>星號花莊</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鴻興花莊</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>益大花莊</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>聚昌花莊</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋三十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>源升莊</cell>
+            <cell>洋三十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="55" facs="#page-55" />
+        <fw type="running" n="p055-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p055-folio">三六</fw>
+        <table n="p055-t01">
+          <row>
+            <cell>益慎勤記</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>敬興吉</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>敬成元</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p055-u001">劉瑞卿君經募洋二百五十元</ab>
+        <table n="p055-t02">
+          <row>
+            <cell>方惠和行</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉瑞卿君</cell>
+            <cell>洋四十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>何善發君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>翁增榮君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李長生君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>慎昌莊</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>費本立君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周汝綸君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p055-t03">
+          <row>
+            <cell>義和長</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>裕豐協</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>方裕和號</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蓮記啓興</cell>
+            <cell>洋二十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>金錫祥君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳而圻君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周中五房</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>慎祥莊</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳傳楚君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>姜子璜君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>慎裕莊</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="56" facs="#page-56" />
+        <fw type="running" n="p056-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p056-folio">三七</fw>
+        <table n="p056-t01">
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋四元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>歐陽愛儂</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p056-u001">陳如馨君經募洋二百五十元</ab>
+        <table n="p056-t02">
+          <row>
+            <cell>姜成房</cell>
+            <cell>洋一百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>西郊公會</cell>
+            <cell>洋四十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p056-u002">鄒其炳君經募洋二百六十五元</ab>
+        <table n="p056-t03">
+          <row>
+            <cell>謝寶樹堂</cell>
+            <cell>洋三十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>凌夢泉君</cell>
+            <cell>洋三十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張炳坤君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>洪彭齡君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張善昌君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周承宣君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p056-t04">
+          <row>
+            <cell>陳文臣君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王葆初君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>西北時疫醫院</cell>
+            <cell>洋四十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>如生廠</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王翊庭君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王良誠君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周阿桂君</cell>
+            <cell>洋十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>嚴元祥君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>唐振新君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>湯啓永君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>林慶桂君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="57" facs="#page-57" />
+        <fw type="running" n="p057-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p057-folio">三八</fw>
+        <table n="p057-t01">
+          <row>
+            <cell>周謙君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄒祥興號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p057-u001">榮德鈞君經募洋一百八十元</ab>
+        <table n="p057-t02">
+          <row>
+            <cell>榮德鈞君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>趙守白君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>沈鳳祥君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>吳慶來君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>韓錫璋君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳志超君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p057-u002">王正甫君經募洋一百五十元</ab>
+        <table n="p057-t03">
+          <row>
+            <cell>榮昌祥號</cell>
+            <cell>洋念五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王文房</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王正甫君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p057-t04">
+          <row>
+            <cell>信和號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄒其炳君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孔氏兄弟</cell>
+            <cell>洋念五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張慶祥君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>馬文耀君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>曹雨蒼君</cell>
+            <cell>洋五君</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張南華君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蔣慕良君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王廉方君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>永生祥號</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王宏卿君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="58" facs="#page-58" />
+        <fw type="running" n="p058-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p058-folio">三九</fw>
+        <table n="p058-t01">
+          <row>
+            <cell>董仲文君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王浩富君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳賢惠君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周學孚君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳幼卿君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張生華君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蔣本沉君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王輔慶君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>謝連芳君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>沈碧泉君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王仁睦君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p058-u001">戚偉良君經募洋一百三十元</ab>
+        <table n="p058-t02">
+          <row>
+            <cell>翁仰青君</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p058-t03">
+          <row>
+            <cell>王颺卿君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王繼陶君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張孝悌君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李連生君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>董嘉祥君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>潘遒初君</cell>
+            <cell>洋四元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孫永良君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>潘久香君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄔烈祥君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>姚啓棠君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>范純觀君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="59" facs="#page-59" />
+        <fw type="running" n="p059-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p059-folio">四〇</fw>
+        <table n="p059-t01">
+          <row>
+            <cell>戴文模君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p059-u001">陳常泰君經洋一百念五元</ab>
+        <table n="p059-t02">
+          <row>
+            <cell>英美烟公司</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p059-u002">陳筱葆君經募洋一百念五元</ab>
+        <table n="p059-t03">
+          <row>
+            <cell>屠留餘堂</cell>
+            <cell>洋五十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>麥德成君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>龐幸蓀君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉章甫君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐晴浦君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>戚不求君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐浦漁君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐秋初君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李衷林君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p059-t04">
+          <row>
+            <cell>陳常泰君</cell>
+            <cell>洋念五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳筱葆君</cell>
+            <cell>洋念七元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳贊發君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鮑伯勳君</cell>
+            <cell>洋四元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>董果庭君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>藍欣禾君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>高韻濤君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳仲傑君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>倪星吾君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>錢選雲君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="60" facs="#page-60" />
+        <fw type="running" n="p060-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p060-folio">四一</fw>
+        <table n="p060-t01">
+          <row>
+            <cell>沈藹如君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p060-u001">周寧甫君經募洋一百念五元</ab>
+        <table n="p060-t02">
+          <row>
+            <cell>和豐公司</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>胡盈蓀君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周駿聲君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>建昌號</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p060-u002">周汝佐君經募洋一百念五元</ab>
+        <table n="p060-t03">
+          <row>
+            <cell>周汝佐君</cell>
+            <cell>洋六十七元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王雲章君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周老太太</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>施恆舟君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周安如君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p060-u003">李桂卿君經募洋一百念五元</ab>
+        <table n="p060-t04">
+          <row>
+            <cell>馮之爽君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>無名氏</cell>
+            <cell>洋念五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鼎崇興號</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>胡寶源君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>慎康莊</cell>
+            <cell>洋二十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>瑞茂行</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周沐卿君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>慎成莊</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="61" facs="#page-61" />
+        <fw type="running" n="p061-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p061-folio">四二</fw>
+        <table n="p061-t01">
+          <row>
+            <cell>李桂卿君</cell>
+            <cell>洋六十七元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李詩卿君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉同嘉君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>美華公司</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p061-u001">沈遺香女士經募洋一百念元</ab>
+        <table n="p061-t02">
+          <row>
+            <cell>史宗棠君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳文卿女士</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>屠鳳韻女士</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p061-u002">趙奎章君經募洋一百念元</ab>
+        <table n="p061-t03">
+          <row>
+            <cell>趙奎章君</cell>
+            <cell>洋十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>丁乾康君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>沈德源君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>范士隆君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p061-t04">
+          <row>
+            <cell>黃鳳鳴君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周甫才君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>隱名氏</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>協興公司</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孫義植君</cell>
+            <cell>洋四十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>何瑞國君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>永亨洋行</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>沈增良君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周駿震君</cell>
+            <cell>洋七元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐佛金君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="62" facs="#page-62" />
+        <fw type="running" n="p062-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p062-folio">四三</fw>
+        <table n="p062-t01">
+          <row>
+            <cell>朱文蓀君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>顧少卿君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>朱邦久君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>杜景星君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>邵子堅君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>樂安記</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>兩隱</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>錢瑞甫君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p062-u001">陸瑞康君經募洋一百十元</ab>
+        <table n="p062-t02">
+          <row>
+            <cell>慎和號</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>高順號</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>姚元房</cell>
+            <cell>洋七元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉維章君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p062-t03">
+          <row>
+            <cell>沈星耿君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄒曉東君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>丁美鶴君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張玉卿君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周錦庠君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>戎光揚君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>高新會君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>松懋號</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>仁成號</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>周行棟君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王載康君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="63" facs="#page-63" />
+        <fw type="running" n="p063-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p063-folio">四四</fw>
+        <table n="p063-t01">
+          <row>
+            <cell>裕順號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉履綏君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>于丕恩君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張藻霞君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>新太和號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李有根君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p063-u001">鄔志堅君經募洋一百元</ab>
+        <table n="p063-t02">
+          <row>
+            <cell>傅志鴻君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p063-u002">王瑞雙君經募洋一百元</ab>
+        <table n="p063-t03">
+          <row>
+            <cell>李星垣太太</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳宗堯君</cell>
+            <cell>洋十五元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p063-u003">蔡志階君經募洋五十元</ab>
+        <table n="p063-t04">
+          <row>
+            <cell>華鈺記</cell>
+            <cell>洋三十元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p063-t05">
+          <row>
+            <cell>森順號</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄔森記</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王紀才君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>敖子初君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王有士君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄔志堅君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張太太</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Mr. S. Zimmerman</cell>
+            <cell>洋六十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳仲記</cell>
+            <cell>洋二十元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="64" facs="#page-64" />
+        <fw type="running" n="p064-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p064-folio">四五</fw>
+        <ab type="heading" n="p064-u001">莊鴻皋君經募洋五十元</ab>
+        <table n="p064-t01">
+          <row>
+            <cell>上海大明眼鏡公司</cell>
+            <cell>洋三十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p064-u002">章維華君經募洋四十五元</ab>
+        <table n="p064-t02">
+          <row>
+            <cell>潘福五君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>項阿毛君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p064-u003">李樵卿君經募洋四十三元</ab>
+        <table n="p064-t03">
+          <row>
+            <cell>林傳芳君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐仁寶君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李樵卿君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>劉安生君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄒雲史君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>繆瑞庭君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p064-u004">史宗棠君經募洋三十元</ab>
+        <table n="p064-t04">
+          <row>
+            <cell>莊鴻皋君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳子國君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳金培君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄒紹康君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>元記行</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>謝德耀君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>沈長春君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>翁益和</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="65" facs="#page-65" />
+        <fw type="running" n="p065-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p065-folio">四六</fw>
+        <table n="p065-t01">
+          <row>
+            <cell>華時洋行</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>任惠清君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p065-u001">董景安君經募洋三十二元</ab>
+        <table n="p065-t02">
+          <row>
+            <cell>張廣年君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐彝尊君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>魏長庚君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳開懋君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳羅卿君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p065-u002">謝其鋁君經募洋念八元</ab>
+        <table n="p065-t03">
+          <row>
+            <cell>百代公司</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>謝其鋁君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張耕山君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>毛文榮君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p065-t04">
+          <row>
+            <cell>徐杜星君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>胡宗桃君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>魏桂芬君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王官欽君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳積翊君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>包馥卿君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>項芹芳君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>賀聚興號</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>彭杜卿君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="66" facs="#page-66" />
+        <fw type="running" n="p066-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p066-folio">四七</fw>
+        <table n="p066-t01">
+          <row>
+            <cell>任阮氏</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p066-u001">丁佐成君經募洋二百五十元</ab>
+        <table n="p066-t02">
+          <row>
+            <cell>大華科學儀器公司</cell>
+            <cell>洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>史久豐君</cell>
+            <cell>洋五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p066-u002">徐永祥君經募洋一百念元</ab>
+        <table n="p066-t03">
+          <row>
+            <cell>忻興發君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孫全安君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>舒阿二君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王仁根君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>應和林君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張金榜君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張定貴君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>范松林君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p066-t04">
+          <row>
+            <cell>丁佐成君</cell>
+            <cell>洋九十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>丁蕘生君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孫全根君</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>金阿華君</cell>
+            <cell>洋十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>楊小毛君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>舒禮祥君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐永祥君</cell>
+            <cell>洋八元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>李學海君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張大有君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>倪福慶君</cell>
+            <cell>洋三元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="67" facs="#page-67" />
+        <fw type="running" n="p067-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p067-folio">四八</fw>
+        <table n="p067-t01">
+          <row>
+            <cell>蔣云貴君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>忻信茂君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐餘冬君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>袁雲林君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>忻榮興君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p067-u001">漢口徐樹馥君經募洋一百念元</ab>
+        <table n="p067-t02">
+          <row>
+            <cell>老慶雲銀樓</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>老大寶銀樓</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>老天成銀樓</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>老寶慶銀樓</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>天寶生</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p067-u002">任彩月女士經募洋二百三十四元</ab>
+        <table n="p067-t03">
+          <row>
+            <cell>劉廣西君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張金定君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐信全君</cell>
+            <cell>洋二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐善岳君</cell>
+            <cell>洋一元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>老物華銀樓</cell>
+            <cell>洋念元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="68" facs="#page-68" />
+        <fw type="running" n="p068-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p068-folio">四九</fw>
+        <table n="p068-t01">
+          <row>
+            <cell>馮任氏</cell>
+            <cell>洋拾元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>馮道融君</cell>
+            <cell>洋拾元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孫楷庭君</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>梁師母</cell>
+            <cell>洋拾元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐厚德君</cell>
+            <cell>洋拾元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>章林生君</cell>
+            <cell>助洋二百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>謝鳳鳴君</cell>
+            <cell>經募洋一百二十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>吳菊秋君</cell>
+            <cell>經募洋二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳希學女士</cell>
+            <cell>經募洋二百五十五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐霞琯君</cell>
+            <cell>助洋一百念五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳季蘭君</cell>
+            <cell>助洋一百念五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>趙占綬君</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王逸彭君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p068-t02">
+          <row>
+            <cell>鮑師母</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳師母</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>朱師母</cell>
+            <cell>洋五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蘇師母</cell>
+            <cell>洋卅元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="note" n="p068-u001">尙有捐款洋一百四十四元芳名未詳</ab>
+        <table n="p068-t03">
+          <row>
+            <cell>曹心存君</cell>
+            <cell>經募洋二百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>童倫元君</cell>
+            <cell>經募洋二百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蔡仁初君</cell>
+            <cell>經募洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>吳雨亭君</cell>
+            <cell>助洋一百念五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>陳寛鈞君</cell>
+            <cell>助洋一百念五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>嚴友三君</cell>
+            <cell>經募洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>徐誠炤君</cell>
+            <cell>經募洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>樓四海君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="69" facs="#page-69" />
+        <fw type="running" n="p069-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p069-folio">五〇</fw>
+        <table n="p069-t01">
+          <row>
+            <cell>蔣介卿君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>王寶慶君</cell>
+            <cell>助洋一百念五元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>錦華行</cell>
+            <cell>助洋一百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>裘珠如君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+        </table>
+        <table n="p069-t02">
+          <row>
+            <cell>高信昌鐵廠</cell>
+            <cell>助洋三十四元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>張姚芬梅女士</cell>
+            <cell>助洋二百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>邵錫康君</cell>
+            <cell>助洋五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>鄔綏發君</cell>
+            <cell>助洋十元</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="text" n="p069-u001">以上至十八年十二月底止計共收洋八千二百拾四元五角、</ab>
+        <ab type="heading" n="p069-u002">附告</ab>
+        <ab type="text" n="p069-u003">建築設備各費均至十八年十二月底止以後所收之數及已認而尙未繳到者</ab>
+        <ab type="text" n="p069-u004">均不在內</ab>
+        <table n="p069-t03">
+          <row>
+            <cell>張組英君</cell>
+            <cell>助門房建築費洋六百五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孫梅堂君</cell>
+            <cell>助大鐘一只價值一百念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>孫美鴻君</cell>
+            <cell>助磁器值二百元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>蔡仁初君</cell>
+            <cell>助寫字枱玻璃十二塊值五十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>甬江慕義兩校</cell>
+            <cell>合助嬰孩磅稱一架價洋四十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>駱偉良君</cell>
+            <cell>助石櫈一對價洋念五元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="70" facs="#page-70" />
+        <ab type="caption" n="p070-u001">普通病室一</ab>
+        <pb n="71" facs="#page-71" />
+        <ab type="caption" n="p071-u001">普通病室二</ab>
+        <pb n="72" facs="#page-72" />
+        <ab type="caption" n="p072-u001">化驗室一</ab>
+        <pb n="73" facs="#page-73" />
+        <ab type="caption" n="p073-u001">爐子間</ab>
+        <pb n="74" facs="#page-74" />
+        <fw type="running" n="p074-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p074-folio">五一</fw>
+        <table n="p074-t01">
+          <row>
+            <cell>柳太太</cell>
+            <cell>助三層樓會客間木器全堂價洋六十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>馬申昌君</cell>
+            <cell>助二層樓會客間木器全堂價洋五十二元五角</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p074-u001">本院收支總報冊</ab>
+        <ab type="text" n="p074-u002">民國十八年</ab>
+        <ab type="text" n="p074-u003">一九二九年</ab>
+        <ab type="heading" n="p074-u004">收入</ab>
+        <table n="p074-t02">
+          <row>
+            <cell>原有產業時價總數</cell>
+            <cell>共計銀六萬元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>美國浸禮差會助</cell>
+            <cell>銀六萬元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>西善士助基地費</cell>
+            <cell>銀三萬一千一百八十六元六角七分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>華善士助建築費</cell>
+            <cell>銀十萬另九千八百念九元一角五分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>華善士助設備費</cell>
+            <cell>銀八千二百十四元五角</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>銀行利息</cell>
+            <cell>銀七千七百四十三元七角四分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>華醫士住宅</cell>
+            <cell>銀三千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>城磚</cell>
+            <cell>銀三百九十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>華善士助門房建築費連大鐘</cell>
+            <cell>銀一千四百念元</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="75" facs="#page-75" />
+        <fw type="running" n="p075-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p075-folio">五二</fw>
+        <table n="p075-t01">
+          <row>
+            <cell>借入經常費</cell>
+            <cell>銀三千二百四十二元九角三分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>共計</cell>
+            <cell>銀念八萬五千○念四元九角九分</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p075-u001">支出</ab>
+        <table n="p075-t02">
+          <row>
+            <cell>原有產業時價總數</cell>
+            <cell>銀六萬元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>新院基地費等</cell>
+            <cell>銀三萬三千五百五十五元五角一分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>印刷旅費郵票等（募捐期）</cell>
+            <cell>銀九千一百四十四元七角六分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>新院打樣費</cell>
+            <cell>銀七千一百八十四元八角四分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>築路拆城</cell>
+            <cell>銀九千五百八十五元四角</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>職員住宅</cell>
+            <cell>銀六千七百八十一元五角八分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>新院建築費</cell>
+            <cell>銀七萬三千六百○七元一角八分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>冷熱水汀管</cell>
+            <cell>銀二萬四千一百卄七元九角</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>監工費</cell>
+            <cell>銀五千○三十四元七角八分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>五金品內部裝飾用</cell>
+            <cell>銀一千九百十三元一角三分</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="76" facs="#page-76" />
+        <fw type="running" n="p076-running">寧波華美醫院徵信錄</fw>
+        <fw type="folio" n="p076-folio">五三</fw>
+        <table n="p076-t01">
+          <row>
+            <cell>電燈裝費</cell>
+            <cell>銀一千八百九十四元一角五分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>設備費</cell>
+            <cell>銀一萬七千九百卄五元二角八分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>城磚</cell>
+            <cell>銀二千五百九十元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>自動電話</cell>
+            <cell>銀二千二百卄五元一角四分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>基地（助款項內）</cell>
+            <cell>銀六千元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>西醫士住宅建築及基地費</cell>
+            <cell>銀一萬三千○○六元一角一分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>築牆支路等</cell>
+            <cell>銀七千五百四十二元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>關稅等</cell>
+            <cell>銀五百五十六元二角八分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>愛克司光另件</cell>
+            <cell>銀九百卄元九角五分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>門房建築費連大鐘</cell>
+            <cell>銀一千四百念元</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>還經常費</cell>
+            <cell>銀三千二百四十元九角三分</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>共計</cell>
+            <cell>銀念八萬五千○念四元九角九分</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="77" facs="#page-77" />
+      </div>
+    </body>
+  </text>
+</TEI>
