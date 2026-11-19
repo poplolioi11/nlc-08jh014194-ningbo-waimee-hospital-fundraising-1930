@@ -1,7 +1,8 @@
 cff-version: 1.2.0
 message: "Please cite the transcription version and its source edition."
 type: dataset
-title: "寧波華美醫院徵信錄 | Public Accounting Report of Ningbo Huamei Hospital"
+title: "寧波華美醫院徵信錄(中國國家圖書館 08jh014194/37817) / Ningbo Huamei Yiyuan Zhengxin Lu [Fundraising and Accounts Register of Ningbo Huamei Hospital]: Transcription Dataset"
+doi: "10.5281/zenodo.24364507"
 version: "0.2.0"
 authors:
   - family-names: Chu
